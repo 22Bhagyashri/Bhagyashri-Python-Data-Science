@@ -1,2 +1,2 @@
 # Bhagyashri-Python-Data-Science
-Hear im shared h data science
+Hear i'm shared data science Project
